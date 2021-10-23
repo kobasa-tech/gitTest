@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//comment add
 class test2ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -27,3 +27,4 @@ class test2ViewController: UIViewController {
     */
 
 }
+//comment2 add
